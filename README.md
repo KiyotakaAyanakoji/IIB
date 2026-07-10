@@ -1,2 +1,0 @@
-# IIB
-Internship Intelligence Bot 
